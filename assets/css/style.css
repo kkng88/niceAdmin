@@ -1218,6 +1218,11 @@ h6 {
   font-size: 14px;
   transition: all 0.3s;
   border-top: 1px solid #cddfff;
+  /*Custom*/
+  height: 0;
+  overflow: hidden;
+  padding: 0;
+
 }
 
 .footer .copyright {
@@ -1231,3 +1236,5 @@ h6 {
   font-size: 13px;
   color: #012970;
 }
+
+
